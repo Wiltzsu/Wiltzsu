@@ -8,6 +8,7 @@
 
 **Focus**
 - **Sysadmin:** Ubuntu, nginx, MariaDB, maintenance
+- **Security:** patching, hardening
 - **Automation:** Bash, Ansible, GitHub Actions
 - **Apps:** PHP, Laravel, WordPress
 - **Learning:** C, Linux utilities
