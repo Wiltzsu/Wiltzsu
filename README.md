@@ -10,7 +10,3 @@
 - **Sysadmin:** Ubuntu, nginx, MariaDB, maintenance, migrations
 - **Automation:** Bash, Ansible, GitHub Actions
 - **Apps:** PHP, Laravel, WordPress
-
-**Repos**
-- [platform](https://github.com/Wiltzsu/platform) — Ansible, deploy workflows, VPS lab
-- [linux-server-utils](https://github.com/Wiltzsu/linux-server-utils) — server scripts
