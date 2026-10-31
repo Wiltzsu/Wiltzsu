@@ -10,3 +10,4 @@
 - **Sysadmin:** Ubuntu, nginx, MariaDB, maintenance, migrations
 - **Automation:** Bash, Ansible, GitHub Actions
 - **Apps:** PHP, Laravel, WordPress
+- **Learning:** C, Linux utilities
