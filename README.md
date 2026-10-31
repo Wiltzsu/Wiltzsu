@@ -6,7 +6,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-**Focus**
 - **Sysadmin:** Ubuntu, nginx
 - **Security:** patching, hardening
 - **Automation:** Bash, Ansible, GitHub Actions
