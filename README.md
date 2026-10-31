@@ -7,7 +7,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 **Focus**
-- **Sysadmin:** Ubuntu, nginx, MariaDB, maintenance, migrations
+- **Sysadmin:** Ubuntu, nginx, MariaDB, maintenance
 - **Automation:** Bash, Ansible, GitHub Actions
 - **Apps:** PHP, Laravel, WordPress
 - **Learning:** C, Linux utilities
